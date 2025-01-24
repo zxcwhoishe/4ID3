@@ -1,3 +1,8 @@
+//Devin Stukel 400306690
+//Danial Lariei 400381952
+//Kevin Nguyen  400389285
+//Zac Belal     400408727
+//James Palmer  400391584
 #include "bluetooth_a.h"
 
 void setup() {
